@@ -1,0 +1,1 @@
+# -SAP-Certified-Application-Associate---Reporting-Modeling-and-Data-Acquisition-with-SAP-BW-4HANA-2.
